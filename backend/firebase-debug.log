@@ -1,0 +1,28 @@
+[debug] [2025-01-15T20:31:50.741Z] ----------------------------------------------------------------------
+[debug] [2025-01-15T20:31:50.743Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\bsach\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2025-01-15T20:31:50.743Z] CLI Version:   13.29.1
+[debug] [2025-01-15T20:31:50.743Z] Platform:      win32
+[debug] [2025-01-15T20:31:50.743Z] Node Version:  v20.17.0
+[debug] [2025-01-15T20:31:50.744Z] Time:          Wed Jan 15 2025 12:31:50 GMT-0800 (Pacific Standard Time)
+[debug] [2025-01-15T20:31:50.744Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-01-15T20:31:50.748Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-01-15T20:31:50.748Z] > authorizing via signed-in user (rosachdeva@ucsd.edu)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\bsach\Documents\SPLAGen-Website\backend
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 

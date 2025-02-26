@@ -25,7 +25,7 @@ export default function HomeScreen() {
     const handleGoogleSignIn = async () => {
         
         try {
-            
+          await GoogleSignin.signOut();
           await GoogleSignin.hasPlayServices();
           const userInfo = await GoogleSignin.signIn();
           const tokens = await GoogleSignin.getTokens();
